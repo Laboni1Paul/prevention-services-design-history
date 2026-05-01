@@ -1,6 +1,6 @@
 ---
 title: "Image reading part 2: adding value for Quality Assurance teams"
-date: 2026-04-30
+date: 2026-05-01
 description: "On the path to replacing BSIS, we took time to understand how we might improve reporting for the Screening Quality Assurance Service."
 tags:
   - breast screening
