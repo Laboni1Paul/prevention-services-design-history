@@ -13,7 +13,7 @@ opengraphImage:
   alt: Guidance supporting the interpretation of film reading quality assurance data
 ---
 
-For more information on image reading data and performance, read [part 1](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/image-reading-part-1-data-and-performance/).
+For more information on image reading data and performance, read [part 1](/breast-screening-reporting/2026/04/image-reading-part-1-data-and-performance/).
 
 Part 3 will share our thoughts on supporting image readers and Directors of Breast Screening.
 
