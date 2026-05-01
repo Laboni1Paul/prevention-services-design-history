@@ -74,7 +74,7 @@ It would be helpful to be able to compare readers more easily, whether within th
 
 ### Monitor the impact of AI
 
-With the Edith trial under way, it is likely that AI reading will be implemented. QA teams need a way to understand any impact on performance.
+With the [EDITH trial](https://www.nature.com/articles/s43018-026-01128-z) under way, it is likely that AI reading will be implemented to reduce the need for two readers. QA teams need a way to understand any impact on performance.
 
 ## 2. Additional data that would enhance QA’s ability to identify issues
 
